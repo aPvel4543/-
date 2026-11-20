@@ -1,0 +1,19 @@
+Основные библиотеки:
+Pytorch(torch) - для создания нейронки
+Whisper(-U openai-whisper) - для нейронки
+Librosa(librosa) - анализ аудио
+NumPy (numpy) - математические вычисоения
+Pandas(pandas) - Обработка таблиц
+Datasets(datasets) - Обучающие наборы данных
+JIWER(jiwer) - Метрики ошибок
+SoundFile(soundfile) - чтение аудио
+CustomTkinter(customtkinter) - Для создания интерфейса
+TorchAudio(torchaudio) - Обработка аудио
+FFmpeg(ffmpeg) - декодирование MP3
+Pillow(pillow) - работа с изображением
+Arcade
+
+Подготовка обучающих данных
+Mozilla Common Voice - https://commonvoice.mozilla.org/ru
+
+
