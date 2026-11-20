@@ -33,11 +33,8 @@ AudioTranscriber/
 │   ├── main.py
 │   ├── interface.py
 │   └── transcriber.py
-├── models/
-├── audio/
-│   ├── input/
-│   └── output/
-│       └── history.json
+├── └──audio/output
+│      └── history.json        
 ├── assets/
 │   └── icons/
 ├── requirements.txt
