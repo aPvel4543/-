@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# IDE
+.idea/
+
+# Audio
+audio/input/*
+audio/output/*
+
+# Models
+models/*
+
+# Исключения для сохранения папок
+!audio/input/.gitkeep
+!audio/output/.gitkeep
+!models/.gitkeep
